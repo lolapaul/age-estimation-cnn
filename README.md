@@ -1,16 +1,16 @@
-# 🧑‍💼 Age Estimation with ResNet50
+#  Age Estimation with ResNet50
 
 This project aims to help **Good Seed**, a supermarket chain, ensure compliance with alcohol sales laws by estimating the age of customers via computer vision. Using a pre-trained convolutional neural network (ResNet50), we predict the age of individuals based on facial photos.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 Develop a deep learning model that estimates a person's age from their photograph to determine if they are legally eligible to purchase alcohol.
 
 ---
 
-## 🧪 Dataset Description
+##  Dataset Description
 
 - **Images:** Facial photos of customers  
 - **Labels:** Corresponding age of individuals (`real_age`)  
@@ -20,7 +20,7 @@ Develop a deep learning model that estimates a person's age from their photograp
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 - **Base Model:** ResNet50 pre-trained on ImageNet  
 - **Top Layers:**
@@ -32,13 +32,13 @@ Develop a deep learning model that estimates a person's age from their photograp
 
 ---
 
-## 🧪 Evaluation Result
+##  Evaluation Result
 
 The model achieves a **MAE < 8** on the test set, which is considered an effective result for age regression tasks.
 
 ---
 
-## 🔍 Insights & Next Steps
+##  Insights & Next Steps
 
 - Vision AI can effectively assist in verifying age at point-of-sale terminals.  
 - Potential applications:
@@ -48,7 +48,7 @@ The model achieves a **MAE < 8** on the test set, which is considered an effecti
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 age-estimation-cnn/
@@ -60,7 +60,7 @@ age-estimation-cnn/
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - Python  
 - TensorFlow / Keras  
@@ -69,7 +69,7 @@ age-estimation-cnn/
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Completed as part of the **TripleTen Bootcamp** – Sprint: *Computer Vision & CNN Regression*
 
