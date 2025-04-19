@@ -53,7 +53,7 @@ The model achieves a **MAE < 8** on the test set, which is considered an effecti
 ```
 age-estimation-cnn/
 │
-├── Proyecto_final_sprint16_j.ipynb
+├── age_estimation_resnet50.ipynb
 ├── README.md
 └── requirements.txt
 ```
