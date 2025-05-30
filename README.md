@@ -69,13 +69,7 @@ age-estimation-cnn/
 
 ---
 
-##  Status
-
-✔️ Completed as part of the **TripleTen Bootcamp** – Sprint: *Computer Vision & CNN Regression*
-
----
-
-## 📌 Author
+##  Author
 
 David Villanueva  
 [LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
